@@ -7,7 +7,7 @@ import butterknife.ButterKnife.Finder;
 public class SplashActivity$$ViewInjector {
   public static void inject(Finder finder, final com.example.administrator.michart.SplashActivity target, Object source) {
     View view;
-    view = finder.findRequiredView(source, 2131558530, "field 'im'");
+    view = finder.findRequiredView(source, 2131558533, "field 'im'");
     target.im = (android.widget.ImageView) view;
   }
 

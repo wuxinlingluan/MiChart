@@ -22,7 +22,7 @@
             android:id="@id/et_username"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="输入对放ID" />
+            android:hint="输入对方ID" />
 
         <Button
             android:id="@+id/bt_logout"

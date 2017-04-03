@@ -70,6 +70,7 @@
 
         <activity android:name="com.example.administrator.michart.ECLoginActivity" />
         <activity android:name="com.example.administrator.michart.MainActivity" />
+        <activity android:name="com.example.administrator.michart.ChatActivity" />
     </application>
 
 </manifest>

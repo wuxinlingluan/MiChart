@@ -2,10 +2,10 @@ package com.example.administrator.michart;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.Toast;
 
 import com.hyphenate.EMCallBack;
 import com.hyphenate.chat.EMClient;
@@ -56,7 +56,7 @@ public class ECLoginActivity extends BaseActivity {
 
     @Override
     public void onError(int i, String s) {
-        Log.e("sheldon", "登陆失败"+i+","+s);
+        Toast.makeText(ECLoginActivity.this, "注册失败,错误码:"+i+" ,失败原因"+s.toString(), Toast.LENGTH_SHORT).show();
     }
 
     @Override
@@ -75,7 +75,7 @@ public class ECLoginActivity extends BaseActivity {
                         EMClient.getInstance().createAccount(etUsername.getText().toString().trim(),etPsw.getText().toString().trim());
                     } catch (HyphenateException e) {
                         e.printStackTrace();
-                        Log.i("sheldon","注册失败,错误码:"+e.getErrorCode()+" "+e.getMessage().toString());
+                        Toast.makeText(ECLoginActivity.this, "注册失败,错误码:"+e.getErrorCode()+" ,失败原因"+e.getMessage().toString(), Toast.LENGTH_SHORT).show();
                     }
                 }
             }).start();

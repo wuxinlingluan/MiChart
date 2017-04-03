@@ -1,39 +1,39 @@
 [
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\pointinfo\\MiChart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
-        "source": "C:\\Android\\.android\\build-cache\\dfe27f4942285309c80ac0173d89c3736cf8f267\\output\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
-    },
-    {
         "merged": "C:\\Users\\Administrator\\Desktop\\pointinfo\\MiChart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
         "source": "C:\\Android\\.android\\build-cache\\dfe27f4942285309c80ac0173d89c3736cf8f267\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\pointinfo\\MiChart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Android\\.android\\build-cache\\dfe27f4942285309c80ac0173d89c3736cf8f267\\output\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\pointinfo\\MiChart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ease_chat_send_btn_normal.9.png",
         "source": "C:\\Users\\Administrator\\Desktop\\pointinfo\\MiChart\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ease_chat_send_btn_normal.9.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\pointinfo\\MiChart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
-        "source": "C:\\Android\\.android\\build-cache\\dfe27f4942285309c80ac0173d89c3736cf8f267\\output\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
-    },
-    {
         "merged": "C:\\Users\\Administrator\\Desktop\\pointinfo\\MiChart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\design_ic_visibility.png",
         "source": "C:\\Android\\.android\\build-cache\\bb10dda749073d3c2a315146ec31d443055b7c93\\output\\res\\drawable-xhdpi-v4\\design_ic_visibility.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\pointinfo\\MiChart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Android\\.android\\build-cache\\dfe27f4942285309c80ac0173d89c3736cf8f267\\output\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\pointinfo\\MiChart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
         "source": "C:\\Android\\.android\\build-cache\\dfe27f4942285309c80ac0173d89c3736cf8f267\\output\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\pointinfo\\MiChart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
-        "source": "C:\\Android\\.android\\build-cache\\dfe27f4942285309c80ac0173d89c3736cf8f267\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+        "merged": "C:\\Users\\Administrator\\Desktop\\pointinfo\\MiChart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ease_dot_emojicon_unselected.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\pointinfo\\MiChart\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ease_dot_emojicon_unselected.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\pointinfo\\MiChart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ease_chat_image_normal.png",
         "source": "C:\\Users\\Administrator\\Desktop\\pointinfo\\MiChart\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ease_chat_image_normal.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\pointinfo\\MiChart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ease_dot_emojicon_unselected.png",
-        "source": "C:\\Users\\Administrator\\Desktop\\pointinfo\\MiChart\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ease_dot_emojicon_unselected.png"
+        "merged": "C:\\Users\\Administrator\\Desktop\\pointinfo\\MiChart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Android\\.android\\build-cache\\dfe27f4942285309c80ac0173d89c3736cf8f267\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\pointinfo\\MiChart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png",

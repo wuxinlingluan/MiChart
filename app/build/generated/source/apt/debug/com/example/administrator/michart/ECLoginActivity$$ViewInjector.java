@@ -7,11 +7,11 @@ import butterknife.ButterKnife.Finder;
 public class ECLoginActivity$$ViewInjector {
   public static void inject(Finder finder, final com.example.administrator.michart.ECLoginActivity target, Object source) {
     View view;
-    view = finder.findRequiredView(source, 2131558526, "field 'etUsername'");
+    view = finder.findRequiredView(source, 2131558527, "field 'etUsername'");
     target.etUsername = (android.widget.EditText) view;
-    view = finder.findRequiredView(source, 2131558527, "field 'etPsw'");
+    view = finder.findRequiredView(source, 2131558528, "field 'etPsw'");
     target.etPsw = (android.widget.EditText) view;
-    view = finder.findRequiredView(source, 2131558528, "field 'btRegister' and method 'onClick'");
+    view = finder.findRequiredView(source, 2131558529, "field 'btRegister' and method 'onClick'");
     target.btRegister = (android.widget.Button) view;
     view.setOnClickListener(
       new android.view.View.OnClickListener() {
@@ -21,7 +21,7 @@ public class ECLoginActivity$$ViewInjector {
           target.onClick(p0);
         }
       });
-    view = finder.findRequiredView(source, 2131558529, "field 'bt' and method 'onClick'");
+    view = finder.findRequiredView(source, 2131558530, "field 'bt' and method 'onClick'");
     target.bt = (android.widget.Button) view;
     view.setOnClickListener(
       new android.view.View.OnClickListener() {

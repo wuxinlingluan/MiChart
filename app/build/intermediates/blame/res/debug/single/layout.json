@@ -80,28 +80,28 @@
         "source": "C:\\Users\\Administrator\\Desktop\\pointinfo\\MiChart\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_widget_switch_button.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\pointinfo\\MiChart\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_location.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\pointinfo\\MiChart\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_sent_location.xml"
+        "merged": "C:\\Users\\Administrator\\Desktop\\pointinfo\\MiChart\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Android\\.android\\build-cache\\dfe27f4942285309c80ac0173d89c3736cf8f267\\output\\res\\layout\\notification_action.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\pointinfo\\MiChart\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
         "source": "C:\\Android\\.android\\build-cache\\dfe27f4942285309c80ac0173d89c3736cf8f267\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\pointinfo\\MiChart\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
-        "source": "C:\\Android\\.android\\build-cache\\dfe27f4942285309c80ac0173d89c3736cf8f267\\output\\res\\layout\\notification_action.xml"
+        "merged": "C:\\Users\\Administrator\\Desktop\\pointinfo\\MiChart\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_location.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\pointinfo\\MiChart\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_sent_location.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\pointinfo\\MiChart\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
         "source": "C:\\Android\\.android\\build-cache\\bb10dda749073d3c2a315146ec31d443055b7c93\\output\\res\\layout\\design_navigation_item_separator.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\pointinfo\\MiChart\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "C:\\Android\\.android\\build-cache\\dfe27f4942285309c80ac0173d89c3736cf8f267\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
-    },
-    {
         "merged": "C:\\Users\\Administrator\\Desktop\\pointinfo\\MiChart\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
         "source": "C:\\Android\\.android\\build-cache\\dfe27f4942285309c80ac0173d89c3736cf8f267\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\pointinfo\\MiChart\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Android\\.android\\build-cache\\dfe27f4942285309c80ac0173d89c3736cf8f267\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\pointinfo\\MiChart\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_file.xml",
@@ -158,6 +158,10 @@
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\pointinfo\\MiChart\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_expression.xml",
         "source": "C:\\Users\\Administrator\\Desktop\\pointinfo\\MiChart\\easeUI_CN\\build\\intermediates\\bundles\\default\\res\\layout\\ease_row_expression.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\pointinfo\\MiChart\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\pointinfo\\MiChart\\app\\src\\main\\res\\layout\\activity_chat.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\pointinfo\\MiChart\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_eclogin.xml",

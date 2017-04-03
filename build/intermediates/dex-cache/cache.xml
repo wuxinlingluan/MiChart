@@ -3,12 +3,21 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\Administrator\Desktop\pointinfo\MiChart\easeUI_CN\build\intermediates\bundles\default\libs\HwPush_SDK_V2705_nomap.jar"
+        jar="C:\Users\Administrator\Desktop\pointinfo\MiChart\easeUI_CN\build\intermediates\bundles\default\libs\google-play-services.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="d68d22f9e4842e7ea73a667df0808babf6402704">
-        <dex dex="C:\Users\Administrator\Desktop\pointinfo\MiChart\app\build\intermediates\pre-dexed\debug\HwPush_SDK_V2705_nomap_a15e1824c5a4ad2d92e562d4d9cc59960c67e72a.jar" />
+        sha1="dc8ba9e80c63fa62ffe4130ae3487a2ec25912ef">
+        <dex dex="C:\Users\Administrator\Desktop\pointinfo\MiChart\app\build\intermediates\pre-dexed\debug\google-play-services_dcda04c3751b5651a53fbff7f0471f2eb5406448.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\pointinfo\MiChart\easeUI_CN\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7fc63feda62463e19f5bd51e2a6fa6cb781b6dc4">
+        <dex dex="C:\Users\Administrator\Desktop\pointinfo\MiChart\app\build\intermediates\pre-dexed\debug\classes_2abadb0c5b525bb46a40a29ad10a64ea64bfa44e.jar" />
     </item>
     <item
         is-multidex="false"
@@ -30,30 +39,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Administrator\Desktop\pointinfo\MiChart\easeUI_CN\build\intermediates\bundles\default\libs\google-play-services.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="dc8ba9e80c63fa62ffe4130ae3487a2ec25912ef">
-        <dex dex="C:\Users\Administrator\Desktop\pointinfo\MiChart\app\build\intermediates\pre-dexed\debug\google-play-services_dcda04c3751b5651a53fbff7f0471f2eb5406448.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="C:\Users\Administrator\Desktop\pointinfo\MiChart\easeUI_CN\build\intermediates\bundles\default\libs\org.apache.http.legacy.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="49bc2d83ccb0cfe1dbc853e3ba80db0f950ed96d">
         <dex dex="C:\Users\Administrator\Desktop\pointinfo\MiChart\app\build\intermediates\pre-dexed\debug\org.apache.http.legacy_c708a42df29033f22ce2da8ebfb25c3d9fb8b4ff.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Administrator\Desktop\pointinfo\MiChart\easeUI_CN\build\intermediates\bundles\default\libs\BaiduLBS_Android.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f1d3eb83228ace176170b6c5c9fa3b792011581b">
-        <dex dex="C:\Users\Administrator\Desktop\pointinfo\MiChart\app\build\intermediates\pre-dexed\debug\BaiduLBS_Android_253df09427c1d39ca9c94f3cb752dab3366e058c.jar" />
     </item>
     <item
         is-multidex="false"
@@ -66,12 +57,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Administrator\Desktop\pointinfo\MiChart\easeUI_CN\build\intermediates\bundles\default\classes.jar"
+        jar="C:\Users\Administrator\Desktop\pointinfo\MiChart\easeUI_CN\build\intermediates\bundles\default\libs\HwPush_SDK_V2705_nomap.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="7fc63feda62463e19f5bd51e2a6fa6cb781b6dc4">
-        <dex dex="C:\Users\Administrator\Desktop\pointinfo\MiChart\app\build\intermediates\pre-dexed\debug\classes_2abadb0c5b525bb46a40a29ad10a64ea64bfa44e.jar" />
+        sha1="d68d22f9e4842e7ea73a667df0808babf6402704">
+        <dex dex="C:\Users\Administrator\Desktop\pointinfo\MiChart\app\build\intermediates\pre-dexed\debug\HwPush_SDK_V2705_nomap_a15e1824c5a4ad2d92e562d4d9cc59960c67e72a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\pointinfo\MiChart\easeUI_CN\build\intermediates\bundles\default\libs\BaiduLBS_Android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f1d3eb83228ace176170b6c5c9fa3b792011581b">
+        <dex dex="C:\Users\Administrator\Desktop\pointinfo\MiChart\app\build\intermediates\pre-dexed\debug\BaiduLBS_Android_253df09427c1d39ca9c94f3cb752dab3366e058c.jar" />
     </item>
 
 </items>

@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\pointinfo\\MiChart\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "C:\\Android\\.android\\build-cache\\dfe27f4942285309c80ac0173d89c3736cf8f267\\output\\res\\drawable\\abc_textfield_search_material.xml"
-    },
-    {
         "merged": "C:\\Users\\Administrator\\Desktop\\pointinfo\\MiChart\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
         "source": "C:\\Android\\.android\\build-cache\\dfe27f4942285309c80ac0173d89c3736cf8f267\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\pointinfo\\MiChart\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Android\\.android\\build-cache\\dfe27f4942285309c80ac0173d89c3736cf8f267\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\pointinfo\\MiChart\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_search_clear.xml",
