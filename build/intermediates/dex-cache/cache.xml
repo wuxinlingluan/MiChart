@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\pointinfo\MiChart\easeUI_CN\build\intermediates\bundles\default\libs\HwPush_SDK_V2705_nomap.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d68d22f9e4842e7ea73a667df0808babf6402704">
+        <dex dex="C:\Users\Administrator\Desktop\pointinfo\MiChart\app\build\intermediates\pre-dexed\debug\HwPush_SDK_V2705_nomap_a15e1824c5a4ad2d92e562d4d9cc59960c67e72a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\pointinfo\MiChart\easeUI_CN\build\intermediates\bundles\default\libs\MiPush_SDK_Client_2_2_19.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6231c3f3409df7b3172bc5e89f68fbc6beec733e">
+        <dex dex="C:\Users\Administrator\Desktop\pointinfo\MiChart\app\build\intermediates\pre-dexed\debug\MiPush_SDK_Client_2_2_19_1d9635c81ed72601eadd50c3ec011e0466458c3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\pointinfo\MiChart\easeUI_CN\build\intermediates\bundles\default\libs\hyphenatechat_3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e93d1c1f6f975811d4857a6b421b7cc726b17a01">
+        <dex dex="C:\Users\Administrator\Desktop\pointinfo\MiChart\app\build\intermediates\pre-dexed\debug\hyphenatechat_3.3.0_20802f6970e5e4156bd50d2a63d9464d7612153a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\pointinfo\MiChart\easeUI_CN\build\intermediates\bundles\default\libs\google-play-services.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dc8ba9e80c63fa62ffe4130ae3487a2ec25912ef">
+        <dex dex="C:\Users\Administrator\Desktop\pointinfo\MiChart\app\build\intermediates\pre-dexed\debug\google-play-services_dcda04c3751b5651a53fbff7f0471f2eb5406448.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\pointinfo\MiChart\easeUI_CN\build\intermediates\bundles\default\libs\org.apache.http.legacy.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="49bc2d83ccb0cfe1dbc853e3ba80db0f950ed96d">
+        <dex dex="C:\Users\Administrator\Desktop\pointinfo\MiChart\app\build\intermediates\pre-dexed\debug\org.apache.http.legacy_c708a42df29033f22ce2da8ebfb25c3d9fb8b4ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\pointinfo\MiChart\easeUI_CN\build\intermediates\bundles\default\libs\BaiduLBS_Android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f1d3eb83228ace176170b6c5c9fa3b792011581b">
+        <dex dex="C:\Users\Administrator\Desktop\pointinfo\MiChart\app\build\intermediates\pre-dexed\debug\BaiduLBS_Android_253df09427c1d39ca9c94f3cb752dab3366e058c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\pointinfo\MiChart\easeUI_CN\build\intermediates\bundles\default\libs\glide-3.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="015a639bd9933f4f812be8bede14f14bd1bdea8b">
+        <dex dex="C:\Users\Administrator\Desktop\pointinfo\MiChart\app\build\intermediates\pre-dexed\debug\glide-3.6.1_c51d9c56801a908592b082d1e63fcbd681f3045b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\pointinfo\MiChart\easeUI_CN\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7fc63feda62463e19f5bd51e2a6fa6cb781b6dc4">
+        <dex dex="C:\Users\Administrator\Desktop\pointinfo\MiChart\app\build\intermediates\pre-dexed\debug\classes_2abadb0c5b525bb46a40a29ad10a64ea64bfa44e.jar" />
+    </item>
+
+</items>
